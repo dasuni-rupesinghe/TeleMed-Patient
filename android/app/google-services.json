@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1069601528524",
+    "firebase_url": "https://tele-med-9381f.firebaseio.com",
+    "project_id": "tele-med-9381f",
+    "storage_bucket": "tele-med-9381f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069601528524:android:be889b06b5ef915f594069",
+        "android_client_info": {
+          "package_name": "com.dasuni.telemed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069601528524-0a0h6n0qo0iabvuc1g73pm49n52hs9te.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfgRojvEQQOJYbGHphKZXlyLK6TpiMVvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069601528524-0a0h6n0qo0iabvuc1g73pm49n52hs9te.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
